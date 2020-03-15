@@ -1,0 +1,7 @@
+name: NostalHerobrine
+version: 1.0
+main: pl.vjasieg.nostalherobrine.Main
+depend: [Citizens]
+commands:
+  herobrine:
+    description: Debug
